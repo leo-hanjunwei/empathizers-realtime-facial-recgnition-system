@@ -6,7 +6,7 @@ from keras.models import load_model
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
 # Load the pretrained Mini-Xception for facial expression recognition
-model = load_model('Best/fer2013_mini_XCEPTION.119-0.65.hdf5')
+model = load_model('Best/empathizers.hdf5')
 
 # Expression labels
 labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
