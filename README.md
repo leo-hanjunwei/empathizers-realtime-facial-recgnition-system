@@ -1,4 +1,4 @@
-# Empathizer-1430-final
+# Empathizer
 
 There're three tasks specified in the `run.py`:
 - Task 1: training a CNN from scratch 
