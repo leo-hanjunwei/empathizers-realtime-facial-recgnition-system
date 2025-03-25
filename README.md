@@ -32,5 +32,6 @@ Model-specific parameters are included in `models.py` in the constructor of each
 
 (3) There are different versions of MobileNet, can try different versions when training the model: MobileNetV2, MobileNetV3Small, MobileNetV3Large, etc.
 
+![Demo screenshot](EMPATHIZER.png)
 
 
